@@ -1,6 +1,6 @@
 # Motor-Vehicle-Collision
 
-This project aims at analysing the motor vehicles collision that have occured in the City of New York.
+This project aims at analyzing the motor vehicle collisions that have occurred in the City of New York.
 
 The data is acquired from the site of [NYC Open Data](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95)
 
